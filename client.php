@@ -67,7 +67,7 @@
 
 <br>
 
-<form action="clientes.php" method="POST">
+<form action="client.php" method="POST">
 	<center>
 		<table>
 			<tr>
